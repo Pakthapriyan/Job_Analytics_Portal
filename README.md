@@ -39,7 +39,7 @@ This repository contains two essential files:
 
 ## Data Source
 
-The data used for this analysis was sourced from [mention your data source here, e.g., "a public dataset on Kaggle" or "data scraped from various job portals"].
+The data used for this analysis was sourced from Kaggle
 
 ---
 
