@@ -10,6 +10,11 @@ This dashboard is a filtered view of a larger job market dataset. Its primary pu
 -   Where are these intern opportunities located geographically?
 -   Which companies are hiring for these roles?
 -   What are the common qualifications and skills required?
+## Live Project
+
+The Tableau dashboard is deployed and can be viewed directly at the following URL:
+
+[**Job Analytics Portal**](https://job-analytics-portal-liard.vercel.app/)
 
 ## Current Filtered View
 
